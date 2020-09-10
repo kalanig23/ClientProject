@@ -1,0 +1,40 @@
+/*HEADER SECTION START*/
+.header-main {
+    width: 100%;
+    background-color: #5870f8;
+    display: flex;
+    padding: 10px 0px;
+    justify-content: space-between;
+}
+
+.header-left {
+    margin-left: 5%;
+}
+
+.header-right{
+    display: flex;
+    width: 30%;
+    background: #00008b4f;
+    border: 2px solid rgba(245, 245, 245, 0.51);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    padding: 1%;
+    margin-right: 5%;
+}
+
+.name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFCFC;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.specialist {
+    font-weight: 500;
+}
+/*HEADER SECTION END*/
